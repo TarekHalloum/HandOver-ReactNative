@@ -16,10 +16,9 @@ It leverages **AI** for damage and color detection, **Laravel** for API manageme
 **Cloud Services:** Azure App Service & Azure Container Registry  
 **Version Control:** GitHub  
 
-## Future Enhancements
-- Implement real-time chat between users and contractors  
-- Integrate AI for wall color detection in home services  
-- Expand donation analytics and community impact metrics  
+## PowerPoint
+**For detailed presentation slides, check:** 
+- https://docs.google.com/presentation/d/1-YhfuHsM7A15E_P5RqWvQ_5-UJfGG-41/edit?usp=sharing&ouid=106960256579582502517&rtpof=true&sd=true
 
 ## License
 Licensed under the MIT License © 2025 Tarek Halloum.
