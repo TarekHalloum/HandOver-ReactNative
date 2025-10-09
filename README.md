@@ -106,4 +106,4 @@ The app will be available on your emulator or Expo mobile client.
 
 ## License
 
-MIT License © 2025 **Tarek Halloum **
+MIT License © 2025 **Tarek Halloum**
